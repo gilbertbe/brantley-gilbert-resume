@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "Brantley Gilbert",
+    "label": "Senior Software Engineer",
+    "image": "brantley.jpg",
+    "email": "brantley.e.gilbert@gmail.com",
+    "phone": "(804) 971-7373",
+    "url": "https://www.linkedin.com/in/gilbertbe",
+    "summary": "Jack-of-all-trades software engineer with team leadership experience at both startups and Fortune 500 companies. Passionate about building products that surprise and delight with diverse teams.",
+    "location": {
+      "address": "9098 Kings Charter Dr",
+      "postalCode": "VA 23116",
+      "city": "Mechanicsville",
+      "countryCode": "US",
+      "region": "Virginia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "gilbertbe",
+        "url": "https://www.linkedin.com/in/gilbertbe"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://github.com/gilbertbe",
+        "username": "gilbertbe"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "SVT Robotics, Inc",
+      "position": "Senior Software Engineer",
+      "url": "https://www.svtrobotics.com",
+      "startDate": "2022-02-28",
+      "summary": "Full-stack senior engineer and tech lead. Projects include migration from in-warehouse manual deployments to automated cloud-based deployments, designing enterprise messaging solutions, and management of high-volume relational databases.",
+      "highlights": [
+        "Technical lead for Data Ingestion and Insights project; implemented Enterprise Service Bus architecture to allow for exporting large amounts of real-time operational data from warehouse-based material handling systems to Azure.",
+        "Coordinated with security engineers to achieve SOC 2 certification of cloud-based systems."
+      ]
+    },
+    {
+      "name": "CarMax, Inc.",
+      "position": "Senior Software Engineer",
+      "url": "https://www.carmax.com/",
+      "startDate": "2017-06-22",
+      "endDate": "2022-02-25",
+      "summary": "Senior .NET software engineer with a focus on RESTful API development. Other experiences includes enterprise messaging systems, front-end development (React), relational and non-relational databases, and DevOps.",
+      "highlights": [
+        "Senior engineer on customer progression team. Responsible for online checkout flow and payment portal using WorldPay.",
+        "Engineer on MyCarmax team. Implemented identity managment and in-store/online customer journey integration.",
+        "Won the 2019 CarMax Innovation Garage hackathon with a Chrome browser extension to compare vehicle listings across different retailers."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Institute of Technology",
+      "url": "https://www.gatech.edu",
+      "area": "Computer Science",
+      "studyType": "Master of Science",
+      "startDate": "2018-08-20",
+      "endDate": "2021-05-06"
+    },
+    {
+      "institution": "James Madison University",
+      "url": "https://www.jmu.edu",
+      "area": "Integrated Science and Technology",
+      "studyType": "Bachelor of Science",
+      "startDate": "2013-08-24",
+      "endDate": "2017-05-04"
+    }
+  ],
+  "publications": [
+    {
+      "name": "United States Patent",
+      "publisher": "United States Patent and Trademark Office",
+      "releaseDate": "2021-09-09",
+      "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11170424",
+      "summary": "Systems and methods for dynamically ingesting and monitoring online products"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "JLPT N4"
+    }
+  ],
+  "references": [
+    {
+      "name": "Everett Comstock",
+      "reference": "Brantley is one of the finest young developers that I've ever worked with. On a daily basis, he shows more knowledge and skill than many who have been in the profession for decades. He is always open to new ideas and engages in thoughtful discussions. Most impressively he always conducts himself with humility and respect. He is on his way to becoming a strong technical leader, and I hope that the next time our paths cross he'll consider adding me to his team!"
+    }
+  ]
+}
