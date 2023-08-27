@@ -5,8 +5,7 @@
     "image": "brantley.jpg",
     "email": "brantley.e.gilbert@gmail.com",
     "phone": "(804) 971-7373",
-    "url": "https://www.linkedin.com/in/gilbertbe",
-    "summary": "Jack-of-all-trades software engineer with team leadership experience at both startups and Fortune 500 companies. Passionate about building products that surprise and delight with diverse teams.",
+    "summary": "Full-stack software engineer with team leadership experience at both startups and Fortune 500 companies. Highly experienced with ASP.NET and Microsoft Azure but adaptable to any stack. Passionate about continuous learning, mentoring, and building products that surprise and delight with diverse teams.",
     "location": {
       "address": "9098 Kings Charter Dr",
       "postalCode": "VA 23116",
@@ -33,10 +32,14 @@
       "position": "Senior Software Engineer",
       "url": "https://www.svtrobotics.com",
       "startDate": "2022-02-28",
-      "summary": "Full-stack senior engineer and tech lead. Projects include migration from in-warehouse manual deployments to automated cloud-based deployments, designing enterprise messaging solutions, and management of high-volume relational databases.",
+      "summary": "Technical lead for Data Ingestion and Insights project. Advocate for adoption of latest CI/CD and DevOps practices.",
       "highlights": [
-        "Technical lead for Data Ingestion and Insights project; implemented Enterprise Service Bus architecture to allow for exporting large amounts of real-time operational data from warehouse-based material handling systems to Azure.",
-        "Coordinated with security engineers to achieve SOC 2 certification of cloud-based systems."
+        "Architected warehouse-to-cloud enterprise messaging system with Azure Service Bus and Functions to allow for exporting large amounts of order fulfillment and automated material handling data from on-site warehouse management systems to cloud data analysis systems, enabling customer cross-site insights.",
+        "Lead the design and rollout of customer data streaming using Azure Event Hubs and webhooks to allow customer analyts to receive warehouse operation data in real-time.",
+        "Implemented migration of Docker-based on-prem customer site installations to automated cloud-hosted Azure App Service deployments using Azure Bicep infrastructure-as-code templates.",
+        "Migrated identity services from Azure AD B2C to highly customizable Duende IdentityServer OAuth/OpenID implementation to enable multi-factor authentication, SSO, and email customization with SendGrid.",
+        "Coordinated with QA and security engineers to achieve SOC 2 certification of cloud-based systems through data encryption, network controls, and automated testing.",
+        "Created an automated PostgreSQL database monitoring and cleanup process with React front-end to assist site services engineers with troubleshooting and maintaining on-prem data stores."
       ]
     },
     {
@@ -45,11 +48,23 @@
       "url": "https://www.carmax.com/",
       "startDate": "2017-06-22",
       "endDate": "2022-02-25",
-      "summary": "Senior .NET software engineer with a focus on RESTful API development. Other experiences includes enterprise messaging systems, front-end development (React), relational and non-relational databases, and DevOps.",
+      "summary": "Senior software engineer with a focus on RESTful API development.",
       "highlights": [
-        "Senior engineer on customer progression team. Responsible for online checkout flow and payment portal using WorldPay.",
-        "Engineer on MyCarmax team. Implemented identity managment and in-store/online customer journey integration.",
-        "Won the 2019 CarMax Innovation Garage hackathon with a Chrome browser extension to compare vehicle listings across different retailers."
+        "Utilized internal Enterprise Service Bus and customer Master Data Management system to corrlate online and in-store customer activities in order to create a wholistic view of customer activities as part of Customer Progression team. Enabled online customer account management through MyCarMax portal.",
+        "Created a React microsite with .NET Core API to implement online car-buying flow on carmax.com as part of the Checkout team. Implemented WorldPay integration to enable online down payments.",
+        "Won the 2019 CarMax Innovation Garage hackathon with a Chrome browser extension to scrape vehicle listings on competitor sites and allow for side-by-side comparisons."
+      ]
+    },
+    {
+      "name": "Data Works, Inc. (Acquired by QinetiQ)",
+      "position": "Data Analyst Intern",
+      "url": "https://www.qinetiq.com",
+      "startDate": "2016-05-13",
+      "endDate": "2016-07-18",
+      "summary": "Data analyst and ETL intern.",
+      "highlights": [
+        "Used Apache Spark for processing large amounts of PDF documents and Apache Tika for Natural Language Processing and sentiment analysis.",
+        "For final project implemented a resume parsing process using reinforcement learning to rank potential candidates based on employer hiring history."
       ]
     }
   ],
