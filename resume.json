@@ -5,7 +5,7 @@
     "image": "brantley.jpg",
     "email": "brantley.e.gilbert@gmail.com",
     "phone": "(804) 971-7373",
-    "summary": "Full-stack software engineer with team leadership experience at both startups and Fortune 500 companies. Highly experienced with ASP.NET and Microsoft Azure but adaptable to any stack. Passionate about continuous learning, mentoring, and building products that surprise and delight with diverse teams.",
+    "summary": "Full-stack software engineer with team leadership experience at startups and Fortune 500 companies. Highly experienced with ASP.NET and Microsoft Azure. Passionate about continuous learning, mentoring, and building products that surprise and delight with diverse teams.",
     "location": {
       "address": "9098 Kings Charter Dr",
       "postalCode": "VA 23116",
@@ -35,7 +35,7 @@
       "summary": "Technical lead for Data Ingestion and Insights project. Advocate for adoption of latest CI/CD and DevOps practices.",
       "highlights": [
         "Architected warehouse-to-cloud enterprise messaging system with Azure Service Bus and Functions to allow for exporting large amounts of order fulfillment and automated material handling data from on-site warehouse management systems to cloud data analysis systems, enabling customer cross-site insights.",
-        "Lead the design and rollout of customer data streaming using Azure Event Hubs and webhooks to allow customer analyts to receive warehouse operation data in real-time.",
+        "Led the design and rollout of customer data streaming using Azure Event Hubs and webhooks to allow customer analysts to receive warehouse operation data in real-time.",
         "Implemented migration of Docker-based on-prem customer site installations to automated cloud-hosted Azure App Service deployments using Azure Bicep infrastructure-as-code templates.",
         "Migrated identity services from Azure AD B2C to highly customizable Duende IdentityServer OAuth/OpenID implementation to enable multi-factor authentication, SSO, and email customization with SendGrid.",
         "Coordinated with QA and security engineers to achieve SOC 2 certification of cloud-based systems through data encryption, network controls, and automated testing.",
@@ -64,7 +64,7 @@
       "summary": "Data analyst and ETL intern.",
       "highlights": [
         "Used Apache Spark for processing large amounts of PDF documents and Apache Tika for Natural Language Processing and sentiment analysis.",
-        "For final project implemented a resume parsing process using reinforcement learning to rank potential candidates based on employer hiring history."
+        "Implemented a resume parsing process using reinforcement learning to rank potential candidates based on employer hiring history."
       ]
     }
   ],
@@ -103,12 +103,6 @@
     {
       "language": "Japanese",
       "fluency": "JLPT N4"
-    }
-  ],
-  "references": [
-    {
-      "name": "Everett Comstock",
-      "reference": "Brantley is one of the finest young developers that I've ever worked with. On a daily basis, he shows more knowledge and skill than many who have been in the profession for decades. He is always open to new ideas and engages in thoughtful discussions. Most impressively he always conducts himself with humility and respect. He is on his way to becoming a strong technical leader, and I hope that the next time our paths cross he'll consider adding me to his team!"
     }
   ]
 }
